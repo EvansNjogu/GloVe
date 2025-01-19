@@ -69,7 +69,7 @@ Non-trainable params: 30,384,000
 
 ### Training Results
 - **Validation Accuracy**: ~90%
-- **Test Accuracy**: (Add actual results after training)
+- **Test Accuracy**: 0.90609
 
 ## Results
 
