@@ -1,6 +1,6 @@
 # Sentiment Analysis with GloVe and LSTM
 
-This task implements a sentiment analysis model using GloVe word embeddings and LSTM. The dataset used is the IMDB Movie Reviews Dataset, which contains labeled text data (positive/negative sentiment). The project includes preprocessing, feature extraction using GloVe and building a deep learning model with TensorFlow/Keras to classify sentiments.
+This task implements a sentiment analysis model using GloVe word embeddings & LSTM. The dataset used is the IMDB Movie Reviews Dataset, which contains labeled text data (positive/negative sentiment). The project includes preprocessing, feature extraction using GloVe and building a deep learning model with TensorFlow/Keras to classify sentiments.
 
 ## Overview
 
